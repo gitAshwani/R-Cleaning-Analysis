@@ -1,0 +1,14 @@
+name: shinygroup12project
+title: shinygroup12project
+username:
+account: r-opensource-group12
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5358070
+bundleId: 5396915
+url: https://r-opensource-group12.shinyapps.io/shinygroup12project/
+when: 1640087173.74873
+lastSyncTime: 1640087173.74873
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Appendices Group Assignment.xlsx|DataGroupAssignment.Rdata
